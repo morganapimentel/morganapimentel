@@ -1,8 +1,13 @@
 <h1 align="center">Hi there, I'm Flávia!🐱‍💻</h1> 
 
+
+
+
 <h4 align="center"> I'm passionate about technology and the way it makes our lives easier and helps us make everything amazing.
 That's why I'm studying System Development Analysis to apply the knowledge in problem solving and also have fun in the process!<h4/>
 <br><br/>
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=morganapimentel&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📫How to reach me
