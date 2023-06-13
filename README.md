@@ -3,7 +3,7 @@
 
 
 
-<h4 align="center"> I'm passionate about technology and the way it makes our lives easier and helps us make everything amazing.
+<h4 align="center"> I'm passionate about technology and the way it makes our lives easier and incredibly amazing.
 That's why I'm studying System Development Analysis to apply the knowledge in problem solving and also have fun in the process!<h4/>
 <br><br/>
   
