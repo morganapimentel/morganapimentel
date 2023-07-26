@@ -18,6 +18,7 @@ That's why I'm studying System Development Analysis to apply the knowledge in pr
 ## 💻I'm currently learning 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 <br><br/>
+<img src="{[BadgeURLHere](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)}" />
 
 
 
